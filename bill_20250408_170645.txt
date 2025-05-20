@@ -1,0 +1,5 @@
+Person x 130 = ₹0
+Bottle x 25 = ₹500
+
+
+Total: ₹500

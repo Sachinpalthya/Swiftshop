@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+firebase-admin
+python-telegram-bot
+torch
+torchvision
+torchaudio
+adafruit-circuitpython-ssd1306
+board
